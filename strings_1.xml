@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Orbital</string>
+    <string name="search_hint">Search or enter website</string>
+</resources>
